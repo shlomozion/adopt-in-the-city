@@ -1,0 +1,3 @@
+.welcomeHeader {
+  @apply h-96 border-2 border-black;
+}
